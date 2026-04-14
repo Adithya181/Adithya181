@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 <a href="https://github.com/Adithya181">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+ <img src="https://streak-stats.demolab.com/?user=Adithya181&theme=tokyonight" />
 </a>
 <a href="https://www.codechef.com/users/adithya_1801">
   <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
