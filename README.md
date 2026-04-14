@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=BB9AF7&center=true&vCenter=true&width=600&lines=Backend+Developer;1000%2B+DSA+Problems+Solved;AI+%2F+ML+Enthusiast;Future+Software+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=BB9AF7&center=true&vCenter=true&width=600&lines=SDE+%7C+Full+Stack+Developer;1000%2B+DSA+Problems+Solved;AI+%2F+ML+Enthusiast;Future+Software+Engineer" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Adithya Rachamalla</h1>
@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 <a href="https://github.com/Adithya181">
- <img src="https://streak-stats.demolab.com/?user=Adithya181&theme=tokyonight" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://www.codechef.com/users/adithya_1801">
   <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
@@ -133,7 +133,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Adithya181&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=Adithya181&theme=tokyonight" />
 </p>
 
 ---
