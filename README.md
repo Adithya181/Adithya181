@@ -154,10 +154,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Adithya181&icon=2&color=12" />
-</p>
-
----
-
 *Open to SDE internships and full-time roles — feel free to reach out!* 🚀
