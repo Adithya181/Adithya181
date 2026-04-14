@@ -114,16 +114,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Adithya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adithya181&theme=tokyonight&show_icons=true&icon_color=bb9af7&cache_seconds=14400&v=2)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adithya181&theme=tokyonight&layout=compact&cache_seconds=14400&v=2)
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Adithya181&theme=tokyonight&v=2)
-
----
-
 ## 🧠 LeetCode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Adithya181?theme=tokyonight&font=Baloo&ext=heatmap&v=2)
@@ -133,6 +123,12 @@
 ## 📈 Contribution Graph
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Adithya181&theme=tokyo-night&v=2)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Adithya181&theme=tokyonight&v=2)
 
 ---
 
