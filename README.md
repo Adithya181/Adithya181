@@ -33,11 +33,10 @@
 
 ## 💫 About Me
 
-🎓 **4th year B.Tech CSE** (Minor: AI/ML) · **CVR College of Engineering**, Hyderabad · **CGPA 8.62** · Graduating 2026
+🎓 **4th year B.Tech CSE** (Minor: AI/ML) · **CVR College of Engineering**, Hyderabad · **CGPA 8.62** · Graduating 2027
 💡 Passionate about building **scalable backend systems**, clean REST APIs, and full-stack web applications
 🧠 Solved **1000+ DSA problems** across platforms — **570+ on LeetCode**
 🏆 **95.80 percentile** in Naukri Campus Young Turks 2025 — India's largest skill contest
-🔬 Currently exploring **System Design**, AI-powered applications, and ML pipelines
 🎯 Seeking **full-time SDE / Data Science roles** — open to opportunities nationwide
 📫 **rachamallaadithya@gmail.com**
 ⚡ I believe in writing clean, efficient, and production-ready code
