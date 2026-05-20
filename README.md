@@ -58,6 +58,18 @@
 
 ---
 
+### 📉 Customer Churn Prediction — Machine Learning
+> ML project to predict telecom customer churn using Logistic Regression on IBM Telco dataset
+
+- Performed full **EDA** on 7,043 customer records — uncovering churn patterns by tenure, charges, and contract type
+- Applied data cleaning, `pd.get_dummies()` encoding, and `StandardScaler` for preprocessing
+- Achieved **78.7% accuracy** with 0.62 precision and 0.56 F1-score on churn class
+- Key insight: month-to-month contracts and high monthly charges are strongest churn predictors
+
+**Stack:** `Python` `Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Seaborn`
+
+---
+
 ### 🏠 StayScape — Airbnb Clone (Group Project)
 > Full-stack accommodation listing and booking web application — built collaboratively
 
