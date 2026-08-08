@@ -67,7 +67,7 @@
 - Deployed as a real-time **Streamlit** chat application with persistent FAISS index caching for fast cold starts
 
 **Stack:** `Python` `LangChain` `FAISS` `Sentence-Transformers` `Groq LLM` `Streamlit`
-🔗 [Repo](https://github.com/Adithya181/rag-research-assistant)
+🔗 [Live Demo](https://rag-research-assistant-adithya.streamlit.app) · [Repo](https://github.com/Adithya181/rag-research-assistant)
 
 ---
 
