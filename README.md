@@ -2,7 +2,7 @@
 
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=BB9AF7&center=true&vCenter=true&width=700&lines=SDE+%7C+Full+Stack+Developer;570%2B+LeetCode+%7C+1000%2B+DSA+Problems;AI+%2F+ML+Enthusiast;Aspiring+Software+Engineer;Open+to+SDE+%26+Data+Science+Roles" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=BB9AF7&center=true&vCenter=true&width=700&lines=SDE+%7C+Full+Stack+Developer;Data+Science+%2F+ML+Enthusiast;1200%2B+DSA+Problems+%7C+630%2B+LeetCode;Aspiring+Software+Engineer;Open+to+SDE+%26+Data+Science+Roles" />
 </p>
 
 <h3 align="center">Aspiring SDE & Data Scientist · Full Stack Developer · DSA Enthusiast</h3>
@@ -33,10 +33,11 @@
 
 ## 💫 About Me
 
-🎓 **4th year B.Tech CSE** (Minor: AI/ML) · **CVR College of Engineering**, Hyderabad · **CGPA 8.62** · Graduating 2027
-💡 Passionate about building **scalable backend systems**, clean REST APIs, and full-stack web applications
-🧠 Solved **1000+ DSA problems** across platforms — **570+ on LeetCode**
+🎓 **Final-year B.Tech CSE** (Minor: AI/ML) · **CVR College of Engineering**, Hyderabad · **CGPA 8.61** · Graduating 2027
+💡 Passionate about building **scalable backend systems**, clean REST APIs, and full-stack web + ML applications
+🧠 Solved **1200+ DSA problems** across platforms — **630+ on LeetCode**
 🏆 **95.80 percentile** in Naukri Campus Young Turks 2025 — India's largest skill contest
+🔬 Data Science Intern @ **Celebal Technologies**, building end-to-end ML pipelines
 🎯 Seeking **full-time SDE / Data Science roles** — open to opportunities nationwide
 📫 **rachamallaadithya@gmail.com**
 ⚡ I believe in writing clean, efficient, and production-ready code
@@ -45,38 +46,41 @@
 
 ## 🚀 Featured Projects
 
-### 🤖 AI Resume Builder — MERN Stack
-> Full-stack AI-powered resume builder with real-time preview and ATS-friendly PDF export
+### 🤖 Resumify.AI — Full-Stack AI Resume Builder
+> AI-powered resume builder with live preview, ATS scoring, and cloud-saved resumes
 
 - Built with **React.js, Node.js, Express.js, MongoDB, Tailwind CSS**
-- Integrated **Groq AI (LLM)** to analyze resumes, generate a score out of 100, and provide actionable suggestions
-- Built **3 professional resume templates** with live preview
-- Implemented **JWT-based authentication** and cloud storage for managing multiple resumes
+- Integrated **Groq AI (LLM)** to analyze resumes, generate an ATS-style score out of 100, and return targeted, section-specific suggestions
+- **JWT-based authentication** and MongoDB persistence for managing multiple resumes per user
+- Deployed frontend on **Vercel**, backend on **Render**, with CORS, rate-limiting, and environment-based secret management configured for production
 
 **Stack:** `React.js` `Node.js` `Express.js` `MongoDB` `Groq AI` `Tailwind CSS`
+🔗 [Live Demo](https://ai-resume-builder-adithya4.vercel.app/) · [Repo](https://github.com/Adithya181/ai-resume-builder)
 
 ---
 
-### 📉 Customer Churn Prediction — Machine Learning
-> ML project to predict telecom customer churn using Logistic Regression on IBM Telco dataset
+### 🔍 InsightRAG — Multi-Tool RAG Research Assistant
+> Agentic retrieval-augmented generation system for grounded Q&A over ML research papers
 
-- Performed full **EDA** on 7,043 customer records — uncovering churn patterns by tenure, charges, and contract type
-- Applied data cleaning, `pd.get_dummies()` encoding, and `StandardScaler` for preprocessing
-- Achieved **78.7% accuracy** with 0.62 precision and 0.56 F1-score on churn class
-- Key insight: month-to-month contracts and high monthly charges are strongest churn predictors
+- Built a retrieval pipeline over 8 foundational ML papers (Transformer, BERT, ResNet, GPT-3, Adam, Dropout, BatchNorm, ViT), chunking and indexing embeddings in **FAISS** with relevance-score filtering to prevent hallucinated answers on out-of-scope queries
+- Designed an **LLM-driven tool-routing agent** (LangChain) that selects between knowledge-base search, calculator, keyword extraction, and word-count tools based on query intent — with source-cited answers
+- Deployed as a real-time **Streamlit** chat application with persistent FAISS index caching for fast cold starts
 
-**Stack:** `Python` `Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Seaborn`
+**Stack:** `Python` `LangChain` `FAISS` `Sentence-Transformers` `Groq LLM` `Streamlit`
+🔗 [Repo](https://github.com/Adithya181/rag-research-assistant)
 
 ---
 
-### 🏠 StayScape — Airbnb Clone (Group Project)
-> Full-stack accommodation listing and booking web application — built collaboratively
+### ⚡ GridPulse — Autonomous Energy Optimization Platform
+> Forecasting, usage-pattern clustering, and anomaly detection for smart-meter households
 
-- Built with **Node.js, Express.js, MongoDB, EJS** following **MVC architecture**
-- Implemented RESTful routes, server-side rendering, middleware validation, and custom error handling
-- **My contributions:** authentication module, listing page UI, booking logic, database schema
+- Built a **LightGBM** forecasting pipeline on smart-meter household energy data, cutting MAE/RMSE by **45%** over a naive baseline through leakage-free lag and rolling-average feature engineering
+- Applied **K-Means clustering** to segment households into 4 behavioral usage patterns, plus rule-based anomaly detection flagging >50% deviation from a household's own historical average
+- Shipped as an interactive **Streamlit** dashboard with per-household forecasts, cluster comparisons, and CSV export
+- Built during Data Science internship at **Celebal Technologies**
 
-**Stack:** `Node.js` `Express.js` `MongoDB` `EJS` `MVC`
+**Stack:** `Python` `LightGBM` `scikit-learn` `Streamlit` `Plotly`
+🔗 [Live Dashboard](http://celebal-energy-optimization-epxezpmvvmzvvxvovu5dhv.streamlit.app/) · [Repo](https://github.com/Adithya181/celebal-energy-optimization)
 
 ---
 
@@ -102,6 +106,9 @@
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/LightGBM-1D9E75?style=flat"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat"/>
+<img src="https://img.shields.io/badge/FAISS-4F8CFF?style=flat"/>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
 </p>
 
@@ -117,8 +124,8 @@
 | Achievement | Details |
 |-------------|---------|
 | 🥇 Naukri Campus Young Turks 2025 | **95.80 percentile** — India's largest skill contest |
-| 💻 Competitive Programming | **1000+ problems** solved — **570+ on LeetCode** |
-| 🎓 CGPA | **8.62** — CVR College of Engineering |
+| 💻 Competitive Programming | **1200+ problems** solved — **630+ on LeetCode** |
+| 🎓 CGPA | **8.61** — CVR College of Engineering |
 | 🏫 Intermediate | **97.3%** — Narayana Junior College |
 
 ---
@@ -126,26 +133,22 @@
 ## 📜 Certifications
 
 - 🐍 **Programming, DSA Using Python** — NPTEL IIT Madras
-- 📊 **Data Analytics Job Simulation** — Deloitte (Forage)
-- 💼 **Developer Job Simulation** — Accenture (Forage)
 - 🗄️ **Oracle Database Design Certification**
 - 🍃 **MongoDB for Students** — MongoDB University
+- ☁️ **AWS Academy Graduate** — Cloud Foundations
 
 ---
 
 ## 💼 Experience & Training
 
-**Summer Analytics 2025** — *IIT Guwahati* *(Jun 2025)*
+**Data Science Intern** — *Celebal Technologies* *(May 2026 – Jul 2026)*
+> End-to-end production-scale ML pipelines (EDA, feature engineering, training/evaluation) using Python, scikit-learn, and LightGBM
+
+**Summer Analytics 2025** — *Consulting & Analytics Club, IIT Guwahati* *(Jun 2025)*
 > Data Science & ML Program — EDA, feature engineering, regression & classification models
 
 **Smart Coder Program** — *Smart Interviews* *(Dec 2024 – Feb 2026)*
 > Intensive DSA training — algorithmic problem solving and complexity analysis
-
-**Front-End Intern** — *AICTE × Edunet* *(Aug – Sept 2025)*
-> Built responsive UI components and reusable frontend modules
-
-**Virtual Internship** — *Zscaler* *(Apr – Jun 2025)*
-> Zero Trust Architecture, cloud network security, and secure access models
 
 ---
 
