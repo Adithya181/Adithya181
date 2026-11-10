@@ -2,7 +2,7 @@
 
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=BB9AF7&center=true&vCenter=true&width=700&lines=SDE+%7C+Full+Stack+Developer;Data+Science+%2F+ML+Enthusiast;1200%2B+DSA+Problems+%7C+630%2B+LeetCode;Aspiring+Software+Engineer;Open+to+SDE+%26+Data+Science+Roles" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=BB9AF7&center=true&vCenter=true&width=700&lines=SDE+%7C+Full+Stack+Developer;Data+Science+%2F+ML+Enthusiast;1200%2B+DSA+Problems+%7C+690%2B+LeetCode;Aspiring+Software+Engineer;Open+to+SDE+%26+Data+Science+Roles" />
 </p>
 
 <h3 align="center">Aspiring SDE & Data Scientist · Full Stack Developer · DSA Enthusiast</h3>
